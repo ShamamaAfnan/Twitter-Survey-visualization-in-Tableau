@@ -1,0 +1,47 @@
+QuestionID,QuestionType,QuestionText
+CHOICE1,Two Statements,Which do you think is more important for online spaces?
+COMATTACH,Multiple Choice,"In general, how attached do you feel to your local community?"
+CONGPOST,Multiple Choice,"In the elections this November for the U.S. House of Representatives, which party's candidate did you vote for?"
+ECONFAIR2,Two Statements,Which statement comes closer to your own views - even if neither is exactly right?
+FAIRTRT,Multiple Choice,"Overall, in our country today, would you say that ..."
+GSSTRUST2,Two Statements,Do you think most people ...
+GSSTRUST3,Two Statements,Would you say that most of the time people ...
+IMMCULT2,Two Statements,Which statement comes closer to your own views - even if neither is exactly right?
+JOKE1,Two Statements,"Which comes closer to your view, even if neither is exactly right?"
+NATPROBSa,Multiple Choice,How much of a problem do you think the affordability of health care is in the country today?
+NATPROBSb,Multiple Choice,How much of a problem do you think racism is in the country today?
+NATPROBSc,Multiple Choice,How much of a problem do you think illegal immigration is in the country today?
+NATPROBSd,Multiple Choice,How much of a problem do you think sexism is in the country today?
+NATPROBSe,Multiple Choice,How much of a problem do you think drug addiction is in the country today?
+NATPROBSf,Multiple Choice,How much of a problem do you think the gap between the rich and poor is in the country today?
+NATPROBSg,Multiple Choice,How much of a problem do you think gun violence is in the country today?
+NATPROBSh,Multiple Choice,How much of a problem do you think the affordability of a college education is in the country today?
+NATPROBSi,Multiple Choice,How much of a problem do you think climate change is in the country today?
+NATPROBSj,Multiple Choice,How much of a problem do you think treatment of immigrants in the U.S. is in the country today?
+NEWSIMPT,Two Statements,Which of the following best describes you? I follow the news closely...
+POL1DT,Boolean,Do you approve or disapprove of the way Donald Trump is handling his job as President?
+POLCRCT,Two Statements,Which comes closer to your own views - even if neither is exactly right?
+POLTWEET,Boolean,Have you ever tweeted or retweeted about politics?
+QBELIEF3,Multiple Choice,Do most of the people you follow on Twitter have...
+QBELIEF4,Multiple Choice,Do most of the people you follow on Twitter have...
+RELIMP,Multiple Choice,How important is religion in your life?
+SNSSKEP,Boolean,Do you expect that the news you see on social media will largely be accurate?
+SOCTRUST2,Boolean,"Generally speaking, would you say that most people can be trusted?"
+TALKREL,Multiple Choice,How often do you talk about religion with people outside your family?
+THERMOa,Feeling Thermometer,How do you feel towards Republicans?
+THERMOb,Feeling Thermometer,How do you feel towards Democrats?
+THERMOc,Feeling Thermometer,How do you feel towards college professors?
+THERMOd,Feeling Thermometer,How do you feel towards police officers?
+THERMOe,Feeling Thermometer,How do you feel towards journalists?
+THERMOf,Feeling Thermometer,How do you feel towards Muslims?
+THERMOg,Feeling Thermometer,How do you feel towards evangelical Christians?
+THERMOh,Feeling Thermometer,How do you feel towards Catholics?
+TRUSTCONGa,Multiple Choice,"In your view, how much of the time do MEMBERS OF CONGRESS care about the people they represent?"
+TRUSTCONGb,Multiple Choice,"In your view, how much of the time do MEMBERS OF CONGRESS do a good job promoting laws and policies that serve the public interest?"
+TRUSTCONGc,Multiple Choice,"In your view, how much of the time do MEMBERS OF CONGRESS handle the resources available to them in a responsible way?"
+TRUSTCONGd,Multiple Choice,"In your view, how much of the time do MEMBERS OF CONGRESS make public statements that provide fair and accurate information?"
+TRUSTCONGe,Multiple Choice,"In your view, how much of the time do MEMBERS OF CONGRESS admit mistakes and take responsibility for them?"
+TWAUTO,Boolean,Have you ever given permission for someone other than you to post tweets on your behalf?
+TWKNOW,Multiple Choice,Would you say the people you are friends with on Twitter are ...
+VOTED,Multiple Choice,Which of the following statements best describes you:
+WOMENOPPS,Two Statements,Which statement comes closer to your own views - even if neither is exactly right?
